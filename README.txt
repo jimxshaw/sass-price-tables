@@ -3,7 +3,7 @@ SASS Price Tables
 Project Requirements:
 
 Please note that the below versions are as of March 2015.
-Using prior or future version may not necessarily guarantee
+Using prior or future versions may not necessarily guarantee
 	SASS Price Tables to function properly.
 
 homebrew 0.9.5
